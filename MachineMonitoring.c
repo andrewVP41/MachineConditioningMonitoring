@@ -3,8 +3,8 @@
  *
  * FILE NAME  :  MachineMonitoring.c
  * DESCRIPTION:  This program reads acceleration and 
- *               Displays the X,Y, and Z acceliration
- *               valuse on the LCD.
+ *               compares the X,Y, and Z acceleration to the given threshold to set the alarm off 
+ *               
  *
  **************************************************/
 
